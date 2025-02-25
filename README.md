@@ -52,7 +52,7 @@ This project explores the performance of various regression models—**Lasso**, 
 
 ## Paper:
 For a detailed analysis and discussion of the results, refer to the accompanying paper:  
-[**Analysis.pdf**](docs/Homework1_Khangai.pdf)  
+[**Analysis.pdf**]([docs/Homework1_Khangai.pdf](https://docs.google.com/document/d/1gZQRm7fY9kgEe0kDUZGP1GdAZi0X8gkNhoIQ3-mWhD0/edit?usp=sharing))  
 *(Click the link to view the paper.)*
 
 ## Future Work:
