@@ -55,7 +55,22 @@ For a detailed analysis and discussion of the results, refer to the accompanying
 [**Analysis.pdf**]([docs/Homework1_Khangai.pdf](https://docs.google.com/document/d/1gZQRm7fY9kgEe0kDUZGP1GdAZi0X8gkNhoIQ3-mWhD0/edit?usp=sharing))  
 *(Click the link to view the paper.)*
 
+## Graph📈 :
+
+![Screenshot 2025-02-22 at 8 00 37 PM](https://github.com/user-attachments/assets/a4a85cd0-c253-4f39-9c4c-a81a0c167375)
+![Screenshot 2025-02-22 at 7 49 24 PM](https://github.com/user-attachments/assets/cdf45bb1-cdaf-4af9-a24f-61aeea56f6be)
+![Screenshot 2025-02-21 at 7 54 36 AM](https://github.com/user-attachments/assets/16ce859e-8f86-41cd-a439-5193b3d99397)
+![Screenshot 2025-02-19 at 6 08 36 PM](https://github.com/user-attachments/assets/4c0c6505-1cc9-4f22-8d9f-54f9b65807d0)
+![Screenshot 2025-02-19 at 4 14 45 PM](https://github.com/user-attachments/assets/2cfc8a3f-9b44-48bd-a29c-10fcba9a8c8e)
+
+<img width="843" alt="Screenshot 2025-02-24 at 10 51 48 PM" src="https://github.com/user-attachments/assets/866e776b-66c5-499f-9085-6e7d4aa3c2e7" />
+<img width="838" alt="Screenshot 2025-02-24 at 10 51 28 PM" src="https://github.com/user-attachments/assets/30d09bfd-2e57-4f2c-8497-7fa8713bff06" />
+
+
+
 ## Future Work:
 - Explore additional models (e.g., Random Forest, Gradient Boosting).
 - Perform feature engineering to improve model performance.
 - Conduct cross-validation for more robust results.
+
+  
